@@ -34,3 +34,9 @@ David Urdaneta - Social Oplesk - Programa Fullstack - Grupo 9
 - Búsqueda por nombre o correo.
 - Nombre truncado si supera los 10 caracteres.
 - Indicador que muestra la cantidad de registros.
+
+## Base de Datos en AWS RDS
+
+La siguiente captura muestra la instancia de base de datos activa en AWS RDS utilizada para este proyecto:
+
+![Captura de RDS](./assets/database-in-aws-rds.jpg)
